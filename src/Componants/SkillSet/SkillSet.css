@@ -1,0 +1,26 @@
+.containers {
+  width: 100%;
+}
+.skills {
+  text-align: right;
+  padding-right: 20px;
+  line-height: 20px;
+  color: white;
+}
+.tables{
+	background: linear-gradient(to right, #070000, #4c0001, #070000);
+	z-index: 1;
+	color: white;
+}
+
+
+.html{width: 95%; background-color: #4CAF50;}
+.javaScript{width: 75%; background-color: #4CAF50;}
+.css{width: 65%; background-color: #4CAF50;}
+.reactJs{width: 85%; background-color: #4CAF50;}
+.java{width: 85%; background-color: #4CAF50;}
+.dataBase{width: 85%; background-color: #4CAF50;}
+.algorithm{width: 80%; background-color: #4CAF50;}
+.ai{width: 60%; background-color: #4CAF50;}
+.testing{width: 75%; background-color: #4CAF50;}
+.uml{width: 80%; background-color: #4CAF50;}
